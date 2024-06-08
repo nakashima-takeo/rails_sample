@@ -74,3 +74,5 @@ end
 
 gem "bootstrap-sass", "~> 3.4"
 gem "sassc-rails", "~> 2.1"
+
+gem "bcrypt", "~> 3.1"
