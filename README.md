@@ -20,5 +20,5 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
+renderのposgreDBを立ち上げたら、internal_urlをDATABASE_URLに設定する。
 * ...
